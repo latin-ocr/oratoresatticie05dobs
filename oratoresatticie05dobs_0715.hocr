@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./oratoresatticie05dobs_0715.png"; bbox 0 0 2912 4368; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 1444 1156 2665">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 0 1444 1156 2665">
+     <span class='ocr_line' id='line_1_1' title="bbox 0 1444 1156 2665; textangle 180"><span class='ocrx_word' id='word_1_1' title='bbox 0 1444 1156 2665; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 2724 317 2745 357">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 2724 317 2745 357">
+     <span class='ocr_line' id='line_1_2' title="bbox 2724 317 2745 357; textangle 180"><span class='ocrx_word' id='word_1_2' title='bbox 2724 317 2745 357; x_wconf 62' lang='lat' dir='ltr'><em>rt.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 2705 214 2744 256">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 2705 214 2744 256">
+     <span class='ocr_line' id='line_1_3' title="bbox 2705 214 2744 256; baseline 0 -5"><span class='ocrx_word' id='word_1_3' title='bbox 2705 214 2744 256; x_wconf 50' lang='lat'><em>{³5¹1</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1120 4 1143 207">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1120 4 1143 207">
+     <span class='ocr_line' id='line_1_4' title="bbox 1120 4 1143 207; textangle 180"><span class='ocrx_word' id='word_1_4' title='bbox 1120 158 1137 207; x_wconf 46' lang='lat' dir='ltr'><em>vll-n,</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 1131 77 1135 82; x_wconf 47' lang='lat'><em>⁷</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 1120 59 1123 64; x_wconf 45' lang='lat'><em>⁷</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 1124 4 1143 48; x_wconf 54' lang='grc' dir='ltr'><em>κνῆ</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 2530 0 2592 24">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 2530 0 2592 24">
+     <span class='ocr_line' id='line_1_5' title="bbox 2530 0 2592 24; baseline 0 -18"><span class='ocrx_word' id='word_1_8' title='bbox 2530 4 2532 6; x_wconf 93' lang='grc'>.</span> <span class='ocrx_word' id='word_1_9' title='bbox 2563 0 2592 24; x_wconf 57' lang='lat'><em>‘721</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
